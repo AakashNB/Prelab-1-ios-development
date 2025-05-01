@@ -21,6 +21,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Reddit
+ - Upvote downvote system
+ - Sort by controversial
+ 
+ Youtube
+ - Ambient mode
+ - Theathre mode
+ 
+ Discord
+ - Screen share
+ - Krisp noise suppresion
+ 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
